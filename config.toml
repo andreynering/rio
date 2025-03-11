@@ -1,0 +1,6 @@
+[fonts]
+size = 16
+
+[adaptive-theme]
+light = "catppuccin-latte"
+dark = "catppuccin-macchiato"
