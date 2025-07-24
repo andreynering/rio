@@ -2,6 +2,7 @@ padding-x = 5
 
 [fonts]
 size = 16
+family = "Jetbrains Mono"
 
 [adaptive-theme]
 light = "catppuccin-latte"
