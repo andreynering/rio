@@ -1,7 +1,7 @@
 padding-x = 5
 
 [fonts]
-size = 16
+size = 15
 family = "Jetbrains Mono"
 
 [adaptive-theme]
