@@ -5,8 +5,8 @@ size = 15
 family = "Jetbrains Mono"
 
 [adaptive-theme]
-light = "atom-one-light"
-dark = "catppuccin-frappe"
+light = "dracula-light"
+dark = "dracula"
 
 [navigation]
 use-current-path = true
