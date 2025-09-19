@@ -5,7 +5,7 @@ size = 15
 family = "Jetbrains Mono"
 
 [adaptive-theme]
-light = "catppuccin-latte"
+light = "atom-one-light"
 dark = "catppuccin-frappe"
 
 [navigation]
